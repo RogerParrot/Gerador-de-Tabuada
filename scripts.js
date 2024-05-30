@@ -1,6 +1,6 @@
 const form = document.querySelector("#form")
 const tabDo = document.querySelector("#tab-do")
-const multAte = document.querySelector("#mult-ate")
+const multAte = document.querySelector("#mult-ate") //
 
 const resultado = document.querySelector("#resultado")
 
